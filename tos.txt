@@ -32,7 +32,7 @@
 
 7. Your Privacy
 
-    a) Please read our Privacy Policy accessible from https://rapidnodes.me/privacy
+    a) Please read our Privacy Policy accessible from https://epicseg.github.io/fasthost/privacy.txt
 
 8. Governing Law
     a) Any claim related to Fasthost Website shall be governed by the laws of us without regards to its conflict of law provisions.
